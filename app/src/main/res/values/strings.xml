@@ -1,0 +1,40 @@
+<!--
+  ~ Created by Daniel Campos
+  ~ Last modified 18/01/21 10:39 PM
+  ~ Copyright (C) 2021 GiusNiyyel Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="common_hint_weight">Peso (e.g. 78)</string>
+    <string name="common_hint_height">Altura (e.g. 1.75)</string>
+    <string name="header_message">Calcula tu índice de masa corporal</string>
+    <string name="common_btn_go">Calcular</string>
+    <string name="dialog_message">Tu indice de masa corporal es</string>
+    <string name="dialog_imc_clasification">Obeso: Tipo II</string>
+    <string name="common_dialog_button_ok">Ok</string>
+    <string name="common_dialog_button_reset">Intentar de nuevo</string>
+    <string name="common_validate_field_required">Este campo es requerido</string>
+    <string name="imc_clasification1">Delgadez severa</string>
+    <string name="imc_clasification2">Delgadez moderada</string>
+    <string name="imc_clasification3">Delgadez aceptable</string>
+    <string name="imc_clasification4">Peso normal</string>
+    <string name="imc_clasification5">Sobrepeso</string>
+    <string name="imc_clasification6">Obeso: Tipo I</string>
+    <string name="imc_clasification7">Obeso: Tipo II</string>
+    <string name="imc_clasification8">Obeso: Tipo III</string>
+    <string name="dialog_imc_title">Cálculo de IMC</string>
+    <string name="common_menu_info">Acerca de</string>
+</resources>
